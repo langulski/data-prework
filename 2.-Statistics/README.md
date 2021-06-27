@@ -12,12 +12,17 @@ Here's the complete list of exercises you need to deliver:
 
 **WEEK 1**
 * Building Blocks for Problem Solving - Practice quiz on Sets (3 questions)
- 
+ ![Building Blocks for Problem Solving - Practice quiz on Sets](https://user-images.githubusercontent.com/85833899/123561643-0aafa100-d780-11eb-9309-0fa7a6a153b7.JPG)
 
-![Alt text](2.-Statistics/screenshots/Building Blocks for Problem Solving - Practice quiz on Sets.JPG?raw=true "Title")
+
 * The infinite World of Real Numbers - Practice quiz on the Number Line, including Inequalities (8 questions)
+ ![Practice quiz on the Number Line, including Inequalities](https://user-images.githubusercontent.com/85833899/123561647-1602cc80-d780-11eb-8672-88c12d6b2890.JPG)
+
 * That Jagged S Symbol - Practice quiz on Simplification Rules and Sigma Notation (6 questions)
+![Practice quiz on Simplification Rules and Sigma Notation](https://user-images.githubusercontent.com/85833899/123561653-20bd6180-d780-11eb-97d1-9b8e96543d83.JPG)
+
 * That Jagged S Symbol - Graded quiz on Sets, Number Line, Inequalities, Simplification, and Sigma Notation (13 questions)
+![Graded quiz on Sets, Number Line, Inequalities, Simplification, and Sigma Notation](https://user-images.githubusercontent.com/85833899/123561667-2d41ba00-d780-11eb-8021-8582986d3a47.JPG)
 
 **WEEK 2**
 * Descartes Was Really Smart - Practice quiz on the Cartesian Plane (5 questions)
