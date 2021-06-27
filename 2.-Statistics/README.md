@@ -12,6 +12,7 @@ Here's the complete list of exercises you need to deliver:
 
 **WEEK 1**
 * Building Blocks for Problem Solving - Practice quiz on Sets (3 questions)
+ 2.-Statistics/screenshots/Building Blocks for Problem Solving - Practice quiz on Sets.JPG
 * The infinite World of Real Numbers - Practice quiz on the Number Line, including Inequalities (8 questions)
 * That Jagged S Symbol - Practice quiz on Simplification Rules and Sigma Notation (6 questions)
 * That Jagged S Symbol - Graded quiz on Sets, Number Line, Inequalities, Simplification, and Sigma Notation (13 questions)
