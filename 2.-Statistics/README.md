@@ -26,7 +26,13 @@ Here's the complete list of exercises you need to deliver:
 
 **WEEK 2**
 * Descartes Was Really Smart - Practice quiz on the Cartesian Plane (5 questions)
+
+![Practice quiz on the Cartesian Plane](https://user-images.githubusercontent.com/85833899/123562380-e0acad80-d784-11eb-8199-1ecc23ca7899.JPG)
+
 * Input-Output Machines - Practice quiz on Types of Functions (6 questions)
+
+![Practice quiz on Types of Functions](https://user-images.githubusercontent.com/85833899/123562384-e5716180-d784-11eb-8666-bc657ccf1025.JPG)
+
 * Input-Output Machines - Graded quiz on Cartesian Plane and Types of Function (13 questions)
 
 **WEEK 3**
