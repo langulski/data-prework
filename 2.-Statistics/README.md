@@ -37,8 +37,16 @@ Here's the complete list of exercises you need to deliver:
 
 **WEEK 3**
 * This is about that derivative stuff - Practice quiz on Tangent Lines to Functions (2 questions)
+![image](https://user-images.githubusercontent.com/85833899/124041072-8b6ad900-d9dc-11eb-80fe-4da43a2efd3d.png)
+
+
 * Fast Growth, Slow Growth - Practice quiz on Exponents and Logarithms (12 questions)
+
+![image](https://user-images.githubusercontent.com/85833899/124041218-d258ce80-d9dc-11eb-8c5d-8bebca49baf1.png)
+
 * Fast Growth, Slow Growth - Graded quiz on Tangent Lines to Functions, Exponents and Logarithms (13 questions)
+* ![image](https://user-images.githubusercontent.com/85833899/124041121-a89fa780-d9dc-11eb-8449-e9622052c0fc.png)
+
 
 **WEEK 4**
 * Basic Probability Definitions - Practice quiz on Probability Concepts (9 questions)
