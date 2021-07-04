@@ -49,7 +49,28 @@ Here's the complete list of exercises you need to deliver:
 
 
 **WEEK 4**
-* Basic Probability Definitions - Practice quiz on Probability Concepts (9 questions)
-* Problem Solving Methods - Practice quiz on Problem Solving (9 questions)
-* Applying Bayes Theorem and the Binomial Theorem - Practice quiz on Bayes Theorem and the Binomial Theorem (9 questions)
-* Applying Bayes Theorem and the Binomial Theorem - Probability (basic and Intermediate) Graded Quiz (12 questions)
+* Basic Probability Definitions - Practice quiz on 
+* ![Practice quiz on Probability Concepts wk4](https://user-images.githubusercontent.com/85833899/124402905-86be6180-dd09-11eb-9290-edfa30a55465.JPG) (9 questions)
+
+
+* Problem Solving Methods - Practice quiz on ![Practice quiz on Problem Solving wk4](https://user-images.githubusercontent.com/85833899/124402918-963daa80-dd09-11eb-9b6f-93384486e0c4.JPG) (9 questions)
+
+
+
+
+* Applying![Practice quiz on Bayes Theorem and the Binomial Theorem wk4](https://user-images.githubusercontent.com/85833899/124402923-a35a9980-dd09-11eb-964c-469b2e7b1216.JPG) Theorem and the Binomial Theorem - Practice quiz on Bayes Theorem and the Binomial Theorem (9 questions)
+
+
+
+
+* Applyingthe Binomial Theorem - Probability (basic and Intermediate) Graded Quiz (12 questions)
+ ![Probability (basic and Intermediate) Graded Quiz wk4](https://user-images.githubusercontent.com/85833899/124402930-b3727900-dd09-11eb-9640-bd6ced7af0ae.JPG)rem and 
+
+
+
+
+
+
+
+
+
